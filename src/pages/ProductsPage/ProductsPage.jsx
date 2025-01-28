@@ -1,5 +1,4 @@
 import React from 'react';
-import CustomChart from '../../components/CustomChart/CustomChart';
 import { AlertTriangle, BarChart2, DollarSign, Package, ShoppingBag, TrendingUp, Users, Zap } from 'lucide-react';
 import { motion } from 'framer-motion';
 import StatCard from '../../components/StatCard/StatCard';
