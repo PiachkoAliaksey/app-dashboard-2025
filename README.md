@@ -2,7 +2,7 @@
 
 The application is created using JS, React, React Hooks, frame-motion, charts
 
-
+Vercel deploy - `app-dashboard-2025-uptr-p1rhipset-piachkoaliakseys-projects.vercel.app`
 
 ## Getting Started
 
